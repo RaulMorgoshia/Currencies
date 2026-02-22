@@ -1,4 +1,6 @@
-ვალუდის კურსი ეროვნული ბანკის მიხედვით
+ვალუდის კურსი ეროვნული ბანკის მიხედვით 
+
+Built entirely using Angular 21.1.2 and Tailwind
 
 <img width="2553" height="1271" alt="Screenshot 2026-02-22 145557" src="https://github.com/user-attachments/assets/9b254f3c-4102-445b-acc9-1e81613f3445" />
 
